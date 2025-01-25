@@ -16,3 +16,5 @@ function result(winQuantity, lossQuantity) {
     `O Herói tem de saldo de ${rankResult} está no nível de ${level}`
   );
 }
+
+console.log("guilherme braga");
