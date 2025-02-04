@@ -34,3 +34,6 @@ newHero.attack()
 newHeroTwo.attack()
 newHeroThree.attack()
 newHeroFour.attack()
+
+
+// olá
